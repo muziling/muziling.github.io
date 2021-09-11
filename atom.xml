@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://muziling.github.io</id>
-    <title>Gridea</title>
-    <updated>2021-09-11T12:37:04.712Z</updated>
+    <title>木</title>
+    <updated>2021-09-11T13:00:50.917Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://muziling.github.io"/>
     <link rel="self" href="https://muziling.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>随笔</subtitle>
     <logo>https://muziling.github.io/images/avatar.png</logo>
     <icon>https://muziling.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, Gridea</rights>
+    <rights>All rights reserved 2021, 木</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://muziling.github.io/post/hello-gridea/</id>
